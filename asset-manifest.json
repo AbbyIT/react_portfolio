@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IT.github.io/react-project/static/css/main.c2cab247.css",
+    "main.js": "/IT.github.io/react-project/static/js/main.763bf577.js",
+    "index.html": "/IT.github.io/react-project/index.html",
+    "main.c2cab247.css.map": "/IT.github.io/react-project/static/css/main.c2cab247.css.map",
+    "main.763bf577.js.map": "/IT.github.io/react-project/static/js/main.763bf577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.763bf577.js"
+  ]
+}
