@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h1>Home Page</h1>
       <p>
-        I am Abby and I have been learning 
+        I am Abby and I have been learning about webpage development using JAVA Script, REACT, CSS and HTML.
       </p>
     </div>
   );
