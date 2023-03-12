@@ -1,4 +1,5 @@
 import React from "react";
+import  projectJson from "../../Json/Project.json"
 
 function About() {
   return (
@@ -13,26 +14,19 @@ function About() {
       I enjoy travelling around the world to exotic places. 
       </p>
 
-        <div class="card mb-3" style={{width: "540px"}}>
-        <div class="row no-gutters">
-        <div class="col-md-4">
-          <img src="lady2.jpg" class="card-img" alt="About Me"/>
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">This shows links to all my projects</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>
 
+          <p>07940 755322</p>
+          <p>Abby@gmail.com</p>
+          <a href= {projectJson[1].gitHub} ></a>
+          {/* <a href= {projectJson[1].gitHub} button type="button" class="btn btn-success"></a> */}
+          <p>Github</p>
+          <a href ="https://open.spotify.com/"> </a>
+          <p>Spotify</p>
+          <a href="https://publish.twitter.com/"> </a>
+          <p>Twitter</p>
+        
 
-
-
-
+</div>
   );
 }
 

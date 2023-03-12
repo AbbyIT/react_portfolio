@@ -9,15 +9,25 @@ function Contact(props) {
       <p>
         Please see my contact details below:
       </p>
-      <Link to="learn" role="button" className="btn btn-link">
+
+
+
+
+      <Link to="contact" role="button" className="btn btn-link">
         Learn More
       </Link>
-      <Link to="contact" role="button" className="btn btn-link">
+      <Link to="Home" role="button" className="btn btn-link">
         Learn Less
       </Link>
       <Routes>
-        <Route path="learn" element={<Learn />} />
+        <Route path="contact" element={<contact />} />
       </Routes>
+
+
+    
+
+
+
     </div>
   );
 }

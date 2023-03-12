@@ -23,7 +23,7 @@ class PortfolioContainer extends Component {
           handlePageChange={this.handlePageChange}
         />
         Based on `this.state.currentPage`, render the appropriate component
-        here. Please see the lsit of my portfolio 
+        here. Please see the list of my portfolio 
       </div>
     );
   }
