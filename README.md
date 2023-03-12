@@ -68,7 +68,7 @@ This project involve developing an initial scaffolding for my portfolio website.
 
 ## Github Links
 
-https://abbyit.github.io/react_portfolio/
-https://github.com/AbbyIT/react_portfolio
+*https://abbyit.github.io/react_portfolio/
+*https://github.com/AbbyIT/react_portfolio
 
 

@@ -1,8 +1,15 @@
 [{ 
+"projectTitle": "Foodify  project", 
+"deployedLink": "https://abbyit.github.io/Foodify/",
+"gitHub":       "https://github.com/AbbyIT/Foodify"
 
+},
+
+
+{
 "projectTitle": "Portfolio Design project", 
-"deployedLink": "https://github.com/AbbyIT/Portfolio-Redesign ",
-"gitHub": "https://github.com/AbbyIT/"
+"deployedLink": "https://abbyit.github.io/Portfolio-Redesign/ ",
+"gitHub":       "https://github.com/AbbyIT/Portfolio-Redesign"
 
 },
 
@@ -10,22 +17,26 @@
 
 "projectTitle": "password Generator", 
 "deployedLink": "https://abbyit.github.io/Password-Generator/",
-"gitHub": "https://github.com/AbbyIT/"
+"gitHub":       "https://github.com/AbbyIT/Password-Generator"
+
+},
+
+{ 
+
+"projectTitle": "Weather Dashboard", 
+"deployedLink": "https://abbyit.github.io/Weather-Dashboard/",
+"gitHub":       "https://github.com/AbbyIT/Weather-Dashboard"
 
 },
 
 
 { 
 
-"projectTitle": "Weather Dashboard", 
-"deployedLink": "https://abbyit.github.io/Weather-Dashboard/",
-"gitHub": "https://github.com/AbbyIT/"
+"projectTitle": "React Portfolio", 
+"deployedLink": "https://abbyit.github.io/react_portfolio/",
+"gitHub":       "https://github.com/AbbyIT/react_portfolio"
 
 }
-
-
-
-
 
 
 ]
