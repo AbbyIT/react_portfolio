@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
+
 import Learn from './Gallery';
 
 function Contact(props) {
@@ -8,8 +9,12 @@ function Contact(props) {
       <h1>Contact Page</h1>
       <p>
         Please see my contact details below:
+       
+
       </p>
 
+
+    
 
 
 

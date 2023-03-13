@@ -22,7 +22,7 @@ function Gallery() {
         This features links to all my projects
       </p>
       {/* displays foodify project in gallery */}
-      {/* <img src={project1}></img> */}
+ 
       <div class="card text-white bg-primary mb-3" style={{ width: "18rem;" }}>
         <div class="card-header"> <h1>{projectJson[0].projectTitle} </h1></div>
         <div class="card-body">
